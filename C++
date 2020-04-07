@@ -2,3 +2,6 @@ https://devblogs.microsoft.com/cppblog/books-on-c17/
 https://coderprog.com/professional-c-4th/
 https://coderprog.com/modern-c-challenge/
 https://github.com/rajarathinam/MyBooksCollection
+
+
+https://tutorialspedia.com/an-overview-of-one-way-ssl-and-two-way-ssl/
