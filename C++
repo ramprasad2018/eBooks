@@ -1,3 +1,9 @@
+Imprtant Books on C++ 17
+------------------------
+https://github.com/BartVandewoestyne/Cpp/blob/master/C%2B%2B17/books.md
+
+
+
 https://devblogs.microsoft.com/cppblog/books-on-c17/
 https://coderprog.com/professional-c-4th/
 https://coderprog.com/modern-c-challenge/
