@@ -6,6 +6,7 @@ https://github.com/BartVandewoestyne/Cpp/blob/master/C%2B%2B17/books.md
 
 C++ Magazines
 --------------
+https://accu.org/index.php/conferences
 https://isocpp.org/
 https://www.modernescpp.com/index.php
 https://visualstudiomagazine.com/home.aspx
