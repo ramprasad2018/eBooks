@@ -12,6 +12,10 @@ https://www.modernescpp.com/index.php
 https://visualstudiomagazine.com/home.aspx
 https://www.modernescpp.com/
 
+More Links
+----------
+https://github.com/fffaraz/awesome-cpp/blob/master/books.md
+https://github.com/tvaneerd/cpp17_in_TTs
 
 
 
